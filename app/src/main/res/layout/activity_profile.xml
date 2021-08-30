@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="10dp"
-    tools:context="com.example.login.ProfileActivity">
+    tools:context="com.example.android02.login.ProfileActivity">
 
     <TextView
         android:layout_width="wrap_content"

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context="com.example.login.EditUserActivity">
+    tools:context="com.example.android02.login.EditUserActivity">
 
     <EditText
         android:layout_width="match_parent"

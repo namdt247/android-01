@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.login.R;
+import com.example.android02.listview.R;
 
 public class MainActivity2 extends AppCompatActivity {
 

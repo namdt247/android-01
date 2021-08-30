@@ -1,4 +1,4 @@
-package com.example.login;
+package com.example.android02.login;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.example.android02.listview.R;
 
 public class ProfileActivity extends AppCompatActivity implements View.OnClickListener {
     private TextView tvUser;
